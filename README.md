@@ -1,4 +1,5 @@
 # machine-learning
+ * 记录深度学习心路历程
 
 ## 课程笔记
   * 李宏毅深度学习 2020 SPRING
